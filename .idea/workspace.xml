@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac3de4b-3d1a-4fa3-9e24-6e7c0f827a2f" name="Changes" comment="Command implemented">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/eii/ulpgc/psl/kata5/PokemonCommand.java" afterDir="false" />
+    <list default="true" id="cac3de4b-3d1a-4fa3-9e24-6e7c0f827a2f" name="Changes" comment="CommandExecutor implemented">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/eii/ulpgc/psl/kata5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/eii/ulpgc/psl/kata5/CommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/eii/ulpgc/psl/kata5/CommandExecutor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703793874991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PokemonCommand implemented">
+      <created>1703794163679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703794163680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CommandExecutor implemented">
+      <created>1703794438612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703794438612</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Command implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="Command implemented" />
+    <MESSAGE value="PokemonCommand implemented" />
+    <MESSAGE value="CommandExecutor implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="CommandExecutor implemented" />
   </component>
 </project>

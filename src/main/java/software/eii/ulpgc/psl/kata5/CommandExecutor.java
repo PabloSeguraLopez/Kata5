@@ -16,7 +16,7 @@ public class CommandExecutor {
         this.response = output;
     }
     public static CommandExecutor with(Request req, Response rep){
-        return new CommandExecutor(req, rep)
+        return new CommandExecutor(req, rep);
     }
     public static void put(String name, Command command){
         commands.put(name, command);
